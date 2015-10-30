@@ -1,0 +1,19 @@
+{
+  "name": "mp-project",
+  "version": "1.0.0",
+  "description": "MP Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/mp-project.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/mp-project/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/mp-project#readme"
+}
